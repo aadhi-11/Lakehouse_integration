@@ -50,3 +50,6 @@ The project follows the **Medallion Architecture** pattern in Databricks:
 
 ## Project Goal
 To build a **single scalable lakehouse platform** that integrates multiple business entities while ensuring **data governance, performance, and analytics readiness**.
+
+#project artitecture
+![Architecture](project_architecture.png.png)
